@@ -37,7 +37,7 @@ we delve into the design space of general AR models, including Mask Autoregressi
 
 Method | params| tokens | FID (256x256) | weight 
 --- |:---:|:---:|:---:|:---:|
-MaskGIL-B   | 111M | 16x16 | 5.46 | [c2i_B_256.pt]()
-MaskGIL-L   | 343M | 16x16 | 3.80 | [c2i_L_256.pt]()
-MaskGIL-XL  | 775M | 16x16 | 2.62 | [c2i_X_256.pt]()
-MaskGIL-XXL | 1.4B | 16x16 | 2.34 | [c2i_XXL_256.pt]()
+MaskGIL-B   | 111M | 16x16 | 5.64 | [c2i_B_256.pt]()
+MaskGIL-L   | 343M | 16x16 | 4.01 | [c2i_L_256.pt]()
+MaskGIL-XL  | 775M | 16x16 | 3.90 | [c2i_X_256.pt]()
+MaskGIL-XXL | 1.4B | 16x16 | 3.71 | [c2i_XXL_256.pt]()
