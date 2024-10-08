@@ -21,6 +21,7 @@ Here's an overview of the repository structure:
       |    ├── images/                                <- Image samples         
       |    |
       |    ├── requirements.yaml                      <- help to install env 
-      |    ├── README.md                              <- Me :) 
+      |    ├── FID_sample.py                          <- sample 50K images for FID
       |    └── main.py                                <- Main
+      
 
