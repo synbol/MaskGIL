@@ -70,3 +70,15 @@ MaskGIL-B   | 111M | 16x16 | 5.64 | [c2i_B_256.pt]()
 MaskGIL-L   | 343M | 16x16 | 4.01 | [c2i_L_256.pt]()
 MaskGIL-XL  | 775M | 16x16 | 3.90 | [c2i_X_256.pt]()
 MaskGIL-XXL | 1.4B | 16x16 | 3.71 | [c2i_XXL_256.pt]()
+
+
+## 📖 BibTeX
+
+```
+@misc{maskgil,
+      title={Resurrect Mask AutoRegressive Modeling for Efficient and Scalable Image Generation},
+      author={Yi Xin, Le Zhuo, Dongyang Liu, Qi Qin, Siqi Luo, Victor Shea-Jay Huang, Chang Xu, Hongsheng Li, Guangtao Zhai, Xiaohong Liu and Peng Gao},
+      year={2025},
+      url={https://github.com/synbol/MaskGIL},
+}
+```
