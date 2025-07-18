@@ -9,6 +9,7 @@
 
 ## 🔥 News
 **[2025.7.17]** We released the technical report on [arXiv](https://arxiv.org/abs/2507.13032).
+
 **[2025.4.10]** 🎉🎉🎉 Code and Class-driven checkpoints are released! 🎉🎉🎉
 
 
