@@ -8,9 +8,9 @@
 - Beyond its core image generation capabilities, we further extend MaskGIL to a broader range of applications, including: (1) **accelerating AR-based generation** and (2) **developing a real-time speech-to-image generation system**.
 
 ## 🔥 News
-**[2025.7.17]** We released the technical report on [arXiv](https://arxiv.org/abs/2507.13032).
+**[2025.7.17]** 🎉🎉🎉 We released the technical report on [arXiv](https://arxiv.org/abs/2507.13032).
 
-**[2025.4.10]** 🎉🎉🎉 Code and Class-driven checkpoints are released! 🎉🎉🎉
+**[2025.4.10]** 🎉🎉🎉 Code and Class-driven checkpoints are released! 
 
 
 ## 📽️ Demo Examples
