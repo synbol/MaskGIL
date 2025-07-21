@@ -79,7 +79,7 @@ MaskGIL-XXL | 1.4B | 16x16 | 3.71 | [c2i_XXL_256.pt]()
 ```
 @article{xin2025resurrect,
   title={Resurrect Mask AutoRegressive Modeling for Efficient and Scalable Image Generation},
-  author={Xin, Yi and Zhuo, Le and Qin, Qi and Luo, Siqi and Cao, Yuewen and Fu, Bin and He, Yangfan and Li, Hongsheng and Zhai, Guangtao and Liu, Xiaohong and Gao, Peng},
+  author={Xin, Yi and Zhuo, Le and Qin, Qi and Luo, Siqi and Cao, Yuewen and Fu, Bin and He, Yangfan and Li, Hongsheng and Zhai, Guangtao and Liu, Xiaohong and others},
   journal={arXiv preprint arXiv:2507.13032},
   year={2025}
 }
